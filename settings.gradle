@@ -1,2 +1,3 @@
 rootProject.name = 'allyoucanrecipe'
+include 'com.bh.springboot'
 
