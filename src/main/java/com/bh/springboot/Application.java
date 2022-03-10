@@ -11,3 +11,13 @@ public class Application {
         SpringApplication.run(Application.class, args);
     }
 }
+
+
+
+/*
+[Google cloud platform]
+id: byeongho.ra@gmail.com
+project id: springboot-webservice-343722
+OAuth 2.0 Client IDs: springboot-webservice
+OAuth consent screen name: allyoucanrecipe-springboot-webservice
+ */

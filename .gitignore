@@ -1,3 +1,4 @@
 # Ignore directories below
 .gradle
 .idea
+application-oauth.properties
